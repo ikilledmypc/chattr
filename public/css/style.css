@@ -1,0 +1,13 @@
+#chatbox{
+    width:70%;
+    min-width: 300px;
+    height: 300px;
+    overflow-y:scroll;
+    display: inline-block;
+}
+
+.messageBox{
+    width: 70%;
+    min-width: 300px;
+    display: inline-block;
+}
